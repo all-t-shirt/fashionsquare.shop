@@ -32,10 +32,13 @@ img{
 /*Slider css*/
 
 .slider-section{
-    background: url(../images/mbr-10.jpg) no-repeat center center;
+    background: url(../images/bg.jpg) no-repeat center center;
     padding: 200px 0;
     position: relative;
     z-index: 1;
+	background-size: cover;
+	
+	
 }
 
 .slider-section::after{
